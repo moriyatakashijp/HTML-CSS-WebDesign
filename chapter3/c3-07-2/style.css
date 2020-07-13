@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body {
+    /* 背景色 */
+    background-color: #fee;
+}
+h1 {
+    /*
+    背景色
+    */
+    background-color: #faa;
+}
